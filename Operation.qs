@@ -1,10 +1,15 @@
 namespace HelloWorld
 {
     open Microsoft.Quantum.Intrinsic;
-    open Microsoft.Quantum.Canon;
 
-    operation SayHello() : Result {
-        Message("Hello from quantum world!");
-        return Zero;
+    operation QuantumRandomNumberGenerator() : Result {
+      using ( q = Qubit()){
+        H(q);
+        let r = M(q);
+        Reset(q);
+        return r;
+      }
     }
 }
+
+    
