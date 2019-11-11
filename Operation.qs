@@ -1,4 +1,4 @@
-namespace HelloWorld
+namespace Quantum
 {
     open Microsoft.Quantum.Intrinsic;
 

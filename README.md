@@ -11,8 +11,9 @@ https://hub.gke.mybinder.org/user/microsoft-quantumkatas-keprmpmd/notebooks/inde
 
 https://docs.microsoft.com/en-us/quantum/quickstarts/search?view=qsharp-preview&tabs=tabid-python
 
-
+Random number generator:
 https://docs.microsoft.com/en-us/quantum/welcome?view=qsharp-preview
+
 
 
 https://docs.microsoft.com/en-us/quantum/quickstarts/qrng?view=qsharp-preview

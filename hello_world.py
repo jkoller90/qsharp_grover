@@ -1,5 +1,5 @@
 import qsharp
 
-from HelloWorld import SayHello
+from Quantum import QuantumRandomNumberGenerator
 
-SayHello.simulate()
+print(QuantumRandomNumberGenerator.simulate())
